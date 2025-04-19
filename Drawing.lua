@@ -1,20 +1,6 @@
--- Notification 1
+-- wait me bro
 MakeNotifi({
-        Title = "Auto farm alternative",
+        Title = "Soon",
         Text = "",
         Time = 4
       })
-
--- Notification 2
-MakeNotifi({
-        Title = "This isn't Halloween but good",
-        Text = "",
-        Time = 4
-      })
-
-loadstring(game:HttpGet("https://pastefy.app/FPGI0uTW/raw"))()
--- ^ by Bacon
-
-
--- I will do it later..
--- but I wonder what you're doing here?
