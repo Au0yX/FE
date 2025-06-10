@@ -62,7 +62,7 @@
         "Cor_Hub": [15, 30, 15],
         "Cor_Options": [255, 255, 255],
         "Cor_Stroke": [0, 255, 0],
-        "Cor_Text": [0, 255, 0],
+        "Cor_Text": [255, 255, 255],
         "Cor_DarkText": [0, 255, 0]
       },
       "useGradient": true,
@@ -92,7 +92,7 @@
         "Cor_Hub": [30, 0, 20],
         "Cor_Options": [255, 255, 255],
         "Cor_Stroke": [255, 150, 200],
-        "Cor_Text": [255, 200, 230],
+        "Cor_Text": [255, 255, 255],
         "Cor_DarkText": [255, 200, 230]
       },
       "useGradient": true,
@@ -107,7 +107,7 @@
         "Cor_Hub": [0, 20, 40],
         "Cor_Options": [255, 255, 255],
         "Cor_Stroke": [0, 150, 220],
-        "Cor_Text": [150, 230, 255],
+        "Cor_Text": [255, 255, 255],
         "Cor_DarkText": [150, 230, 255]
       },
       "useGradient": true,
