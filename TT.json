@@ -4,7 +4,7 @@
       "name": "Original Theme",
       "colors": {
         "Cor_Hub": [0, 0, 0],
-        "Cor_Options": [0, 0, 0],
+        "Cor_Options": [255, 255, 255],
         "Cor_Stroke": [57, 57, 57],
         "Cor_Text": [255, 255, 255],
         "Cor_DarkText": [255, 255, 255]
