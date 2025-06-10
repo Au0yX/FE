@@ -1,0 +1,129 @@
+{
+  "backgrounds": {
+    "OriginalBG": {
+      "name": "Original Background",
+      "id": "294720739644",
+      "type": "image"
+    },
+    "Galaxy": {
+      "name": "Galaxy",
+      "id": "14054863939",
+      "type": "image"
+    },
+    "Stars": {
+      "name": "Stars",
+      "id": "4650320914",
+      "type": "image"
+    },
+    "Stars2Blue": {
+      "name": "Stars 2 (Blue)",
+      "id": "88932586390164",
+      "type": "image"
+    },
+    "Nebula": {
+      "name": "Nebula",
+      "id": "195172601",
+      "type": "image"
+    },
+    "DarkModer": {
+      "name": "Dark Moder",
+      "id": "9995709804",
+      "type": "image"
+    },
+    "PurpleWaves": {
+      "name": "Purple Waves",
+      "id": "7216862793",
+      "type": "image"
+    },
+    "NightCity": {
+      "name": "Night City",
+      "id": "3398234229",
+      "type": "image"
+    },
+    "NightCity2": {
+      "name": "Night City 2",
+      "id": "12917182998",
+      "type": "image"
+    },
+    "NightCity3": {
+      "name": "Night City 3",
+      "id": "82374622164835",
+      "type": "image"
+    },
+    "NewYork": {
+      "name": "New York",
+      "id": "7408823909",
+      "type": "image"
+    },
+    "ValentinesDay": {
+      "name": "Valentine's Day",
+      "id": "6341705590",
+      "type": "image"
+    },
+    "HelloKitty": {
+      "name": "Hello Kitty",
+      "id": "12472125728",
+      "type": "image"
+    },
+    "HelloKitty2": {
+      "name": "Hello Kitty 2",
+      "id": "14944741173",
+      "type": "image"
+    },
+    "HaxHacker": {
+      "name": "Hax Hacker",
+      "id": "625041557",
+      "type": "image"
+    },
+    "Russian": {
+      "name": "Russian",
+      "id": "111637494442828",
+      "type": "image"
+    },
+    "AnimeWorld": {
+      "name": "Anime World",
+      "id": "14047658160",
+      "type": "image"
+    },
+    "AnimeWorld2": {
+      "name": "Anime World 2",
+      "id": "11967335173",
+      "type": "image"
+    },
+    "Ghostface": {
+      "name": "Ghostface",
+      "id": "17377271880",
+      "type": "image"
+    },
+    "Ghostface2": {
+      "name": "Ghostface 2",
+      "id": "79637999216389",
+      "type": "image"
+    },
+    "GreenCustom": {
+      "name": "Green Custom",
+      "id": "17005049531",
+      "type": "image"
+    },
+    "Vampire1": {
+      "name": "Vampire 1",
+      "id": "4596165518",
+      "type": "image"
+    },
+    "Vampire2": {
+      "name": "Vampire 2",
+      "id": "15012110389",
+      "type": "image"
+    },
+    "SlightlyTransparent": {
+      "name": "Slightly Transparent",
+      "id": "transparent",
+      "type": "transparent"
+    },
+    "NoBackground": {
+      "name": "No Background",
+      "id": "none",
+      "type": "none"
+    }
+  }
+}
