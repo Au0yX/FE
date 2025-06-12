@@ -115,6 +115,21 @@
         [[0, 20, 60], [0, 80, 120], [0, 130, 190], [0, 180, 230]],
         140
       ]
+    },
+    "UrbanShadow": {
+      "name": "Urban Shadow",
+      "colors": {
+        "Cor_Hub": [20, 20, 20],
+        "Cor_Options": [240, 240, 240],
+        "Cor_Stroke": [100, 100, 100],
+        "Cor_Text": [255, 255, 255],
+        "Cor_DarkText": [180, 180, 180]
+      },
+      "useGradient": true,
+      "gradientColors": [
+        [[10, 10, 10], [50, 50, 50], [80, 80, 80]],
+        90
+      ]
     }
   }
 }
